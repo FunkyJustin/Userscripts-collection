@@ -1,12 +1,15 @@
 // ==UserScript==
 // @name         F95Zone, Ryuugames, and DLsite Search Buttons for Steam
 // @namespace    http://tampermonkey.net/
-// @version      6.0
+// @version      6.0.2
 // @description  Adds buttons to search for the current game and developer on F95Zone and its forums, and search for the game on Ryuugames, OtomiGames, and DLsite. Also autofills and submits the search form on the F95Zone forums search page by clicking the search button.
 // @author       FunkyJustin
 // @match        https://store.steampowered.com/app/*
 // @grant        none
 // @license      MIT
+// @supportURL      https://greasyfork.org/en/scripts/490884-f95zone-ryuugames-and-dlsite-search-buttons-for-steam/feedback
+// @downloadURL https://update.greasyfork.org/scripts/490884/F95Zone%2C%20Ryuugames%2C%20and%20DLsite%20Search%20Buttons%20for%20Steam.user.js
+// @updateURL https://update.greasyfork.org/scripts/490884/F95Zone%2C%20Ryuugames%2C%20and%20DLsite%20Search%20Buttons%20for%20Steam.meta.js
 // ==/UserScript==
 
 (function() {
