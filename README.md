@@ -11,3 +11,4 @@ https://greasyfork.org/en/users/187317-funkyjustin
 Sometimes I won't be able to update my userscripts to my GitHub since I prioritize my GreasyFork page so here's the direct links to my userscripts over at GreasyFork
 
 [Search Fakku Doujin with Schale Network Mirrors](https://greasyfork.org/en/scripts/507506-search-fakku-doujin-with-schale-network-mirrors)
+[F95Zone, Ryuugames, and DLsite Search Buttons for Steam](https://greasyfork.org/en/scripts/490884-f95zone-ryuugames-and-dlsite-search-buttons-for-steam)
