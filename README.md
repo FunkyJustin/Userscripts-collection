@@ -10,9 +10,11 @@ If you want, you can also check out my Greasyfork Profile, that's where I usuall
 
 https://greasyfork.org/en/users/187317-funkyjustin
 
-## Greasyfork Mirror
+## Greasy Fork Mirror
 
 Sometimes I won't be able to update my userscripts to my GitHub since I prioritize my GreasyFork page so here's the direct links to my userscripts over at GreasyFork
+
+[Greasy Fork Profile](https://greasyfork.org/en/users/187317-funkyjustin)
 
 [Search Fakku Doujin with Schale Network Mirrors](https://greasyfork.org/en/scripts/507506-search-fakku-doujin-with-schale-network-mirrors)
 
